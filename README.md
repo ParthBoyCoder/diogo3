@@ -78,7 +78,7 @@ Future development goals include:
 - live telemetry dashboards,
 - GPS-tagged environmental mapping,
 - advanced sensor fusion,
-- and terrain-aware traversal systems.
+- terrain-aware traversal systems.
 - NPK level testing with an advanced (and expensive (yikes)) sensor. That will also be inserted with soil insertion mechanism along with the 2 other current sensors.
 
 ---
