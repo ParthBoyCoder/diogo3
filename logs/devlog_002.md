@@ -1,4 +1,4 @@
-# Dev Log 001
+# Dev Log 002
 
 ### Completed
 - All Ordered Parts Unboxed and Tested (Video On That Coming Soon!)
